@@ -1,9 +1,9 @@
 ### PERT
-![PERT](PERT.png "PERT")
+![PERT](PERT.jpg "PERT")
 ### 甘特圖
 
 ### 關鍵路徑
-![PERT圖](PERT圖.png "PERT圖")
+![PERT圖](PERT圖.jpg "PERT圖")
 1.研擬計畫 > 2.任務分配 > 4.程式開發 > 6.程式測試 > 9.系統測試 > 11.使用者測試  
 整個專案總共需要 155 天
 ### 任務模式
