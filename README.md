@@ -1,5 +1,5 @@
 ### CPM
-![CPM](images/CPM.png)
+![PERT](images/PERT.png)
 ### 甘特圖
 ![gantt](images/gantt.png)
 ### 關鍵路徑
